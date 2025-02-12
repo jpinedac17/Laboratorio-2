@@ -1,0 +1,14 @@
+c:\Users\Jeiner\Desktop\MiProyecto\bin\Debug\net8.0\MiProyecto.exe
+C:\Users\Jeiner\Desktop\MiProyecto\bin\Debug\net8.0\MiProyecto.deps.json
+C:\Users\Jeiner\Desktop\MiProyecto\bin\Debug\net8.0\MiProyecto.runtimeconfig.json
+c:\Users\Jeiner\Desktop\MiProyecto\bin\Debug\net8.0\MiProyecto.dll
+c:\Users\Jeiner\Desktop\MiProyecto\bin\Debug\net8.0\MiProyecto.pdb
+c:\Users\Jeiner\Desktop\MiProyecto\obj\Debug\net8.0\MiProyecto.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Jeiner\Desktop\MiProyecto\obj\Debug\net8.0\MiProyecto.AssemblyInfoInputs.cache
+c:\Users\Jeiner\Desktop\MiProyecto\obj\Debug\net8.0\MiProyecto.AssemblyInfo.cs
+c:\Users\Jeiner\Desktop\MiProyecto\obj\Debug\net8.0\MiProyecto.csproj.CoreCompileInputs.cache
+c:\Users\Jeiner\Desktop\MiProyecto\obj\Debug\net8.0\MiProyecto.dll
+c:\Users\Jeiner\Desktop\MiProyecto\obj\Debug\net8.0\refint\MiProyecto.dll
+c:\Users\Jeiner\Desktop\MiProyecto\obj\Debug\net8.0\MiProyecto.pdb
+C:\Users\Jeiner\Desktop\MiProyecto\obj\Debug\net8.0\MiProyecto.genruntimeconfig.cache
+C:\Users\Jeiner\Desktop\MiProyecto\obj\Debug\net8.0\ref\MiProyecto.dll

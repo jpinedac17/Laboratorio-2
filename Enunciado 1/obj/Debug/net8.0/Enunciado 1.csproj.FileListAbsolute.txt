@@ -1,0 +1,14 @@
+c:\Users\Jeiner\Desktop\Enunciado 1\bin\Debug\net8.0\Enunciado 1.exe
+C:\Users\Jeiner\Desktop\Enunciado 1\bin\Debug\net8.0\Enunciado 1.deps.json
+C:\Users\Jeiner\Desktop\Enunciado 1\bin\Debug\net8.0\Enunciado 1.runtimeconfig.json
+c:\Users\Jeiner\Desktop\Enunciado 1\bin\Debug\net8.0\Enunciado 1.dll
+c:\Users\Jeiner\Desktop\Enunciado 1\bin\Debug\net8.0\Enunciado 1.pdb
+c:\Users\Jeiner\Desktop\Enunciado 1\obj\Debug\net8.0\Enunciado 1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Jeiner\Desktop\Enunciado 1\obj\Debug\net8.0\Enunciado 1.AssemblyInfoInputs.cache
+c:\Users\Jeiner\Desktop\Enunciado 1\obj\Debug\net8.0\Enunciado 1.AssemblyInfo.cs
+c:\Users\Jeiner\Desktop\Enunciado 1\obj\Debug\net8.0\Enunciado 1.csproj.CoreCompileInputs.cache
+c:\Users\Jeiner\Desktop\Enunciado 1\obj\Debug\net8.0\Enunciado 1.dll
+c:\Users\Jeiner\Desktop\Enunciado 1\obj\Debug\net8.0\refint\Enunciado 1.dll
+c:\Users\Jeiner\Desktop\Enunciado 1\obj\Debug\net8.0\Enunciado 1.pdb
+C:\Users\Jeiner\Desktop\Enunciado 1\obj\Debug\net8.0\Enunciado 1.genruntimeconfig.cache
+C:\Users\Jeiner\Desktop\Enunciado 1\obj\Debug\net8.0\ref\Enunciado 1.dll
